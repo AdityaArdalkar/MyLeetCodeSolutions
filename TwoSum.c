@@ -1,5 +1,11 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
+LeetCode #1 — Two Sum
+Approach: Brute Force
+Time: O(n²)
+Space: O(1)
+Status: Accepted ✅
+Optimization possible: Hash table → O(n) average time, O(n) space
  */
 #include<stdio.h>
 #include<stdlib.h>
